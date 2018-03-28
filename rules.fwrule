@@ -9,7 +9,7 @@ RuleSet{
 	incid={1}
 	featureLevel={15}
 	useAppRules={0}
-	id={LAP-BMOCZULSKI-1503920267-0}
+	id={LAP-FLOTT-1503920267-0}
 	creator={BARRACUDA-NETWORKS}
 	localCascade={1}
 	allowRID={0}
@@ -27,7 +27,7 @@ RuleSet{
 	}
 	netobj={
 		NetSet{
-			name={placeholder.elb.amazonaws.com}
+			name={icanhazip.com}
 			readOnly={0}
 			origin={}
 			global={0}
@@ -7827,7 +7827,7 @@ RuleSet{
 							origin={}
 							global={0}
 							comment={}
-							ref={placeholder.elb.amazonaws.com}
+							ref={icanhazip.com}
 						}
 					}
 					ipList={0}
